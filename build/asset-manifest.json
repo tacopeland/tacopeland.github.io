@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.26ddfbe8.css",
+    "main.js": "./static/js/main.664bb853.js",
+    "static/media/DECterm.ttf": "./static/media/DECterm.793542bb30370a143527.ttf",
+    "static/media/logo.svg": "./static/media/logo.d7b71142f38c1bcc335edf4d50daee32.svg",
+    "static/media/key.svg": "./static/media/key.46bfc22374e7d3a99c30b17571ac4dae.svg",
+    "static/media/Python-Logo.svg": "./static/media/Python-Logo.a8e99f2d1c5c7785465ab88e66ca45b1.svg",
+    "static/media/React-Logo.svg": "./static/media/React-Logo.708a3f8ef747b6bf97895c669755c9a6.svg",
+    "static/media/person.svg": "./static/media/person.4e7f8cf27f2be2a12b6ec47710dd9094.svg",
+    "static/media/Elm-Logo.svg": "./static/media/Elm-Logo.dfc0b3aa6d972561502f7074fbe6ece3.svg",
+    "static/media/Haskell-Logo.svg": "./static/media/Haskell-Logo.4881d369f0bf1e35a3feddaf75b281f8.svg",
+    "index.html": "./index.html",
+    "main.26ddfbe8.css.map": "./static/css/main.26ddfbe8.css.map",
+    "main.664bb853.js.map": "./static/js/main.664bb853.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26ddfbe8.css",
+    "static/js/main.664bb853.js"
+  ]
+}

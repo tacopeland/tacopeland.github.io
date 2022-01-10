@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 0 215 215"
+   xmlns="http://www.w3.org/2000/svg">
+  <g
+     id="g875"
+     stroke="#ffaa00"
+     stroke-width="4px"
+     fill="none"
+     transform="translate(2,2)">
+    <path
+       id="polygon861"
+       d="M 105.07185,99.3083 150.4841,53.8954 H 59.65895 Z" />
+    <path
+       id="polygon863"
+       d="m 5.76355,0 45.7431,45.74375 h 99.4318 L 105.1947,0 Z" />
+    <path
+       id="rect865"
+       d="m 160.55104,55.356259 49.48998,49.489981 -49.71566,49.71565 -49.48998,-49.48998 z" />
+    <path
+       id="polygon867"
+       d="M 210.1437,93.4206 V 0 h -93.42125 z" />
+    <path
+       id="polygon869"
+       d="M 99.307,105.07185 0,5.7642 v 198.6166 z" />
+    <path
+       id="polygon871"
+       d="m 166.0893,160.32575 44.0544,44.05505 v -88.10945 z" />
+    <path
+       id="polygon873"
+       d="M 105.07185,110.83605 5.76485,210.1437 H 204.3795 Z" />
+  </g>
+</svg>
