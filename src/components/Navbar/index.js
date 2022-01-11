@@ -9,10 +9,10 @@ const Navbar = () => {
         <>
             <Nav>
                 <NavbarContainer>
-                    <NavLogo to="/"><LogoIcon width="40px" height="30px" /></NavLogo>
+                    <NavLogo to="/home"><LogoIcon width="40px" height="30px" /></NavLogo>
                     <NavMenu>
                         <NavItem>
-                            <NavLinks to="/"><FaTerminal color="#ffaa00" size="25px" /></NavLinks>
+                            <NavLinks to="/home"><FaTerminal color="#ffaa00" size="25px" /></NavLinks>
                         </NavItem>
                         <NavItem>
                             <NavLinks to="/projects"><FaCode color="#ffaa00" size="25px" /></NavLinks>

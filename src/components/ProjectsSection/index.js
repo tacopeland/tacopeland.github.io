@@ -1,6 +1,7 @@
 import React from 'react';
 import Anime from 'react-anime';
-import { ProjectsContainer, ProjectsBg, ProjectsLine, Project} from './ProjectsElements';
+import { ProjectsContainer, Project} from './ProjectsElements';
+import CRTOverlay from '../CRTOverlay';
 
 const desc = {
     hctf:
@@ -69,15 +70,7 @@ const desc = {
 const ProjectsSection = () => {
     return (
         <ProjectsContainer>
-            <ProjectsBg>
-                <Anime duration={8000}
-                       easing="linear"
-                       translateY={["-10vh", "110vh"]}
-                       loop={true}>
-                    <ProjectsLine>
-                    </ProjectsLine>
-                </Anime>
-            </ProjectsBg>
+            <CRTOverlay />
             <Project title="Haxkell Blog" link="https://tacopeland.github.io/haxkell" desc={desc.haxkell} secondary />
             <Project title="Fail2Panel" link="https://github.com/tacopeland/fail2panel/tree/python-backend" desc={desc.fail2panel} />
             <Project title="Haskell CTF Crypto" link="https://github.com/tacopeland/haskell-ctf-crypto" desc={desc.hctf} secondary />

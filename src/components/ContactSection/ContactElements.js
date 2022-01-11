@@ -17,6 +17,7 @@ export const ContactContainer = styled.div`
     }
 `
 
+
 export const ContactSVG = styled.div`
     height: 200px;
     width: auto;

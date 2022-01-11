@@ -29,7 +29,7 @@ a {
 .skill-transition-enter-done, .skill-transition-appear-done {
     stroke-dashoffset: 0px;
     opacity: 1;
-    transition: opacity 1600ms ease-in-out, stroke-dashoffset 1600ms linear 300ms;
+    transition: opacity 800ms ease-in-out, stroke-dashoffset 800ms linear 150ms;
 }
 /* This fires as soon as the this.state.showList is false */
 .skill-transition-exit {
@@ -40,7 +40,7 @@ a {
 .skill-transition-exit-done {
     stroke-dashoffset: 500px;
     opacity: 0;
-    transition: opacity 1600ms ease-in-out 300ms, stroke-dashoffset 1600ms linear;
+    transition: opacity 800ms ease-in-out 150ms, stroke-dashoffset 800ms linear;
 }
 
 @media only screen and (max-height: 480px) {
