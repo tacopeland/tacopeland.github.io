@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.26ddfbe8.css",
-    "main.js": "./static/js/main.113fd229.js",
+    "main.js": "./static/js/main.4084bcc1.js",
     "static/media/DECterm.ttf": "./static/media/DECterm.793542bb30370a143527.ttf",
     "static/media/logo.svg": "./static/media/logo.d7b71142f38c1bcc335edf4d50daee32.svg",
     "static/media/key.svg": "./static/media/key.46bfc22374e7d3a99c30b17571ac4dae.svg",
@@ -12,10 +12,10 @@
     "static/media/Haskell-Logo.svg": "./static/media/Haskell-Logo.4881d369f0bf1e35a3feddaf75b281f8.svg",
     "index.html": "./index.html",
     "main.26ddfbe8.css.map": "./static/css/main.26ddfbe8.css.map",
-    "main.113fd229.js.map": "./static/js/main.113fd229.js.map"
+    "main.4084bcc1.js.map": "./static/js/main.4084bcc1.js.map"
   },
   "entrypoints": [
     "static/css/main.26ddfbe8.css",
-    "static/js/main.113fd229.js"
+    "static/js/main.4084bcc1.js"
   ]
 }

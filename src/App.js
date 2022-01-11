@@ -7,10 +7,6 @@ import SkillsPage from './pages/skills';
 import ContactPage from './pages/contact';
 
 function App() {
-  useEffect(() => {
-    document.title = "Timothy Copeland";
-  }, []);
-
   return (
     <HashRouter>
         <Routes>
