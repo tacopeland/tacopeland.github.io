@@ -1,7 +1,6 @@
 import React from 'react';
 import Anime from 'react-anime';
 import { CRTBg, CRTLine } from './CRTElements';
-import { ReactComponent as Person } from '../../images/person.svg'
 
 const CRTOverlay = () => {
     return (

@@ -5,6 +5,7 @@ import { useNavigate } from 'react-router-dom';
 
 const AnimateSection = () => {
     let navigate = useNavigate();
+    // eslint-disable-next-line
     const [cookies, setCookie] = useCookies(['animate']);
 
     const enableAnimation = () => {

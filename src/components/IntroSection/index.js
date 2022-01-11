@@ -1,6 +1,5 @@
 import React from 'react';
 import Typing from 'react-typing-animation';
-import Anime from 'react-anime';
 import { DateTime } from 'luxon';
 import { useCookies } from 'react-cookie';
 
@@ -11,6 +10,7 @@ import CRTOverlay from '../CRTOverlay';
 const now = DateTime.now().setLocale('en').toFormat('EEE MMM dd TTT kkkk');
 
 const IntroSection = () => {
+    // eslint-disable-next-line
     const [cookies, setCookie] = useCookies(['animate']);
 
     var animated = cookies.animate === "true";

@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { useCookies } from 'react-cookie';
 import { CSSTransition } from 'react-transition-group';
 import { SkillsContainer, SkillsRow, SkillsTitle, SkillsName, SkillsSVG, NextButton } from './SkillsElements';
-import Anime from 'react-anime';
 import { ReactComponent as HaskellLogo } from '../../images/Haskell-Logo.svg'
 import { ReactComponent as ElmLogo } from '../../images/Elm-Logo.svg'
 import { ReactComponent as PythonLogo } from '../../images/Python-Logo.svg'
@@ -39,6 +38,7 @@ const SkillsSection = () => {
     const [counter, setCounter] = useState(0);
     const [showSkill, setShowSkill] = useState(true);
 
+    // eslint-disable-next-line
     const [cookies, setCookie] = useCookies(['animate']);
     var animated = cookies.animate === "true";
 

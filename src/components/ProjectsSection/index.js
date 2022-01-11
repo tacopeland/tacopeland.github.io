@@ -1,5 +1,4 @@
 import React from 'react';
-import Anime from 'react-anime';
 import { ProjectsContainer, Project} from './ProjectsElements';
 import CRTOverlay from '../CRTOverlay';
 
